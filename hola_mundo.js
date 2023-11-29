@@ -1,5 +1,5 @@
 function holaMundo() {
-    return '!Hola Profesor!';
+    return '!Hola!';
   }
   
 module.exports = holaMundo;
